@@ -1,5 +1,4 @@
-![SQL | Database](https://img.shields.io/badge/SQL-Database-008140?&labelColor=D72638)
-![Info | Code Example](https://img.shields.io/badge/Info-Code%20Example-FF8C00?&labelColor=085eb5)
+![Info](https://img.shields.io/badge/Info-0031e7) ![Info](https://img.shields.io/badge/Code-027c4d) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white&style=flat) 
 
 ## Pasos
 1. Obtener el hash del archivo de la publicación es decir `bd.publish` que se encuentra en carpeta debug posterior a compilar el proyecto
