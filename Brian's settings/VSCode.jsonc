@@ -35,5 +35,6 @@
     "editor.overviewRulerBorder": false,
     "editor.hideCursorInOverviewRuler": true,
     "symbols.hidesExplorerArrows": false,
-    "breadcrumbs.enabled": false
+    "breadcrumbs.enabled": false,
+    "explorer.compactFolders": false
 }
